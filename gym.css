@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+.sec{
+    background-image: url(rk-backgrou.jpg);
+    background-size: cover;
+    padding-bottom: 170px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    padding-top: 20px;
+}
+li {
+    float: left;
+}
+
+li a {
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    margin-right: 30px;
+
+}
+li a:hover {
+    color: #e6bf12de;
+}
+.gy {
+    color: #fff;
+    margin-right: 220px;
+    font-size: 30px;
+}
+.mm{
+    color: #d48c1f;
+}
+.sea {
+    color: #fff;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.con {
+    margin-right: 200px;
+}
+.bod {
+    /* border: 2px solid #fff; */
+    margin-left: 750px;
+    margin-top: 150px;
+    color: #fff;
+}
+.bod p {
+    font-size: 18px;
+}
+.bod h1 {
+    margin-top: 0;
+    font-size: 50px;
+    padding-right: 180px;
+    font-family: sans-serif;
+}
+.str {
+    color: #d48c1f;
+}
+.bod button {
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #d48c1f;
+    border: none;
+    border-radius: 0.2rem;
+}
+.sec2 {
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+}
+.us {
+    text-align: center;
+}
+.us p {
+    color: #d48c1f;
+}
+.den {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.eqi {
+    text-align: center;
+
+}
+.eqi i {
+    font-size: 50px;
+    background-color: rgba(126, 113, 113, 0.2);
+    padding: 20px;
+    border-radius: 4rem;
+    color: #d48c1f;
+}
+.nut {
+    text-align: center;
+}
+.nut i {
+    font-size: 50px;
+    background-color: rgba(126, 113, 113, 0.2);
+    padding: 20px;
+    border-radius: 4rem;
+    color: #d48c1f;
+}
+.nal {
+    text-align: center;
+}
+.nal i {
+    font-size: 50px;
+    background-color: rgba(126, 113, 113, 0.2);
+    padding: 20px;
+    border-radius: 4rem;
+    color: #d48c1f;
+}
+.ne {
+    text-align: center;
+}
+.ne i {
+    font-size: 50px;
+    background-color: rgba(126, 113, 113, 0.2);
+    padding: 20px;
+    border-radius: 4rem;
+    color: #d48c1f;
+}
